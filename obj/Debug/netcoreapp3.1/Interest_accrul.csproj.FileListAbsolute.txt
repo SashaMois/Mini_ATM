@@ -1,0 +1,11 @@
+C:\Users\SashaMois\source\repos\Interest_accrul\Interest_accrul\bin\Debug\netcoreapp3.1\Interest_accrul.exe
+C:\Users\SashaMois\source\repos\Interest_accrul\Interest_accrul\bin\Debug\netcoreapp3.1\Interest_accrul.deps.json
+C:\Users\SashaMois\source\repos\Interest_accrul\Interest_accrul\bin\Debug\netcoreapp3.1\Interest_accrul.runtimeconfig.json
+C:\Users\SashaMois\source\repos\Interest_accrul\Interest_accrul\bin\Debug\netcoreapp3.1\Interest_accrul.runtimeconfig.dev.json
+C:\Users\SashaMois\source\repos\Interest_accrul\Interest_accrul\bin\Debug\netcoreapp3.1\Interest_accrul.dll
+C:\Users\SashaMois\source\repos\Interest_accrul\Interest_accrul\bin\Debug\netcoreapp3.1\Interest_accrul.pdb
+C:\Users\SashaMois\source\repos\Interest_accrul\Interest_accrul\obj\Debug\netcoreapp3.1\Interest_accrul.csprojAssemblyReference.cache
+C:\Users\SashaMois\source\repos\Interest_accrul\Interest_accrul\obj\Debug\netcoreapp3.1\Interest_accrul.AssemblyInfoInputs.cache
+C:\Users\SashaMois\source\repos\Interest_accrul\Interest_accrul\obj\Debug\netcoreapp3.1\Interest_accrul.AssemblyInfo.cs
+C:\Users\SashaMois\source\repos\Interest_accrul\Interest_accrul\obj\Debug\netcoreapp3.1\Interest_accrul.dll
+C:\Users\SashaMois\source\repos\Interest_accrul\Interest_accrul\obj\Debug\netcoreapp3.1\Interest_accrul.pdb
